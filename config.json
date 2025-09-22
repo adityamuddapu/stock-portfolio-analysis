@@ -1,0 +1,6 @@
+{
+  "tickers": ["AAPL", "MSFT", "NVDA", "AMZN"],
+  "weights": [0.25, 0.25, 0.25, 0.25],
+  "start": "2023-01-01",
+  "end": null
+}
